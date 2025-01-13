@@ -15,7 +15,7 @@ const routes = {
   // ["ghcr." + CUSTOM_DOMAIN]: "https://ghcr.io",
   // ["cloudsmith." + CUSTOM_DOMAIN]: "https://docker.cloudsmith.io",
   // ["ecr." + CUSTOM_DOMAIN]: "https://public.ecr.aws",
-  "docker.hostscc.top": "https://registry-1.docker.io",
+  "docker.hostscc.top": dockerHub,
   "quay.hostscc.top": "https://quay.io",
   "gcr.hostscc.top": "https://gcr.io",
   "k8s-gcr.hostscc.top": "https://k8s.gcr.io",
